@@ -1,4 +1,4 @@
-package com.rishi.secureapp;
+package com.kanchan.secureapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
